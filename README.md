@@ -37,3 +37,9 @@ While it may work on other distributions with `apt-get` package management or by
    ```bash
    git clone https://github.com/yourusername/ForenShell.git
    cd ForenShell
+2. **Make the Script Executable**
+   ```bash
+   chmod +x forenshell.sh
+3. **Run the Script**
+   ```bash
+   sudo ./forenshell.sh
