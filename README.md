@@ -35,7 +35,7 @@ While it may work on other distributions with `apt-get` package management or by
 ## Installation & Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/ForenShell.git
+   git clone https://github.com/BenZeroDay/ForenShell.git
    cd ForenShell
 2. **Make the Script Executable**
    ```bash
